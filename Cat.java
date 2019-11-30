@@ -1,4 +1,3 @@
-package hullo;
 
 public class Cat {
 	String mood;
